@@ -1,3 +1,3 @@
-public class SMSService {
+public class SMSService implements NotificationService{
 
 }
